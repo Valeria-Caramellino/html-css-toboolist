@@ -10,3 +10,27 @@ header{
 img, h1{
     display: inline-block; 
 }
+#container{
+    width: 900px;
+    height: 500px;
+    background-color: white;
+    margin: 30px auto;
+}
+#bottoni{
+    padding: 20px;
+    border-bottom: 2px solid lightgrey;
+}
+.bottone1{
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    padding: 8px 10px;
+    border-radius: 10px;
+}
+.bottone2{
+    background-color:white;
+    color: lightgray;
+    border: 1px solid lightgray;
+    padding: 8px 10px;
+    border-radius: 10px;
+}
