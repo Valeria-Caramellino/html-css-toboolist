@@ -11,7 +11,7 @@ img, h1{
     display: inline-block; 
 }
 #container{
-    width: 900px;
+    width: 1000px;
     background-color: white;
     margin: 30px auto;
 }
@@ -51,19 +51,20 @@ p{
     color: green;
     border: green solid 1px;
     border-radius: 50%;
-    font-size: 12px;
+    font-size: 10px;
 }
 .croce{
     padding: 5px;
     color: red;
     border: red solid 1px;
     border-radius: 50%;
-    font-size: 12px;
+    font-size: 10px;
 }
 .bordo{
     padding: 8px;
-    border-radius: 10px;
     color: white;
+    border-radius: 30px;
+    font-size: 10px;
 }
 .azzurro{
     background-color: rgb(71,173,241);
